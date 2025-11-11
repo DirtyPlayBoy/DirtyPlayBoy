@@ -7,50 +7,66 @@
 
 <p align="center">
 🎧 Музыкант, маркетолог и разработчик из России. <br>
-Создаю сайты, приложения и биты под ником <a href="https://101beat.com/ru/profile/14001"><b>DirtyBeats</b></a>. <br>
-Учусь на программиста, развиваю свои IT-проекты и собственный бренд.
+Создаю сайты, Python-приложения и музыку под ником <a href="https://101beat.com/ru/profile/14001"><b>DirtyBeats</b></a>. <br>
+Работаю в стиле <b>Vibe-Coding</b> — с атмосферой, визуалом и помощью искусственного интеллекта 🤖.
 </p>
 
 ---
 
 ## ⚡ Навыки и уровень владения
 
-| 💻 Навык | 📈 Уровень | 🧠 Комментарий |
+| 💻 Навык | 📈 Уровень | 💬 Комментарий |
 |-----------|------------|----------------|
-| 🐍 **Python** | ██████░░░░░ 60% | Мой основной язык. Использую в проектах (в т.ч. Orion). Изучаю библиотеки sqlite3, asyncio, Flask и др. |
-| 🌐 **HTML** | ███████░░░░ 70% | Верстаю сайты, понимаю структуру, делаю адаптивные блоки и секции. |
-| 🎨 **CSS** | ██████░░░░░ 60% | Умею стилизовать страницы, работать с цветами, тенями и Flexbox. |
-| ⚙️ **Git & GitHub** | █████░░░░░░ 50% | Работаю с коммитами, ветками и оформлением проектов. |
-| 🧑‍🎨 **Figma / Photoshop / Illustrator** | █████████░░ 90% | Создаю обложки, UI-дизайны, логотипы и макеты сайтов. |
-| 🎧 **FL Studio (DirtyBeats)** | ██████████░ 95% | Пишу биты, продюсирую треки, создаю атмосферный звук. |
+| 🐍 **Python** | ██████░░░░░ 60% | Основной язык: пишу приложения, изучаю Flask, sqlite3, asyncio. |
+| 🌐 **HTML** | ███████░░░░ 70% | Верстаю страницы, понимаю структуру, делаю адаптивные блоки. |
+| 🎨 **CSS** | ██████░░░░░ 60% | Работаю со стилями, цветами и flex-структурами. |
+| ⚙️ **Git & GitHub** | █████░░░░░░ 50% | Управляю репозиториями, коммитами и ветками. |
+| 🧑‍🎨 **Figma / Photoshop / Illustrator** | █████████░░ 90% | Разрабатываю UI, баннеры, логотипы и обложки. |
+| 🎧 **FL Studio (DirtyBeats)** | ██████████░ 95% | Пишу биты, делаю звук и строю вайб. |
+
+---
+
+## 🧠 Мой подход: Vibe Coding + AI
+<p align="center">
+💭 Я использую искусственный интеллект в процессе разработки — как вдохновение, помощника и ускоритель идей.  
+Работаю с AI-моделями, голосовыми ассистентами и интеграцией ИИ в реальные продукты.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Development-6E00FF?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vibe%20Coding-FF00FF?style=for-the-badge&logo=sparkfun&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dirty%20PlayBoy%20Mode-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+</p>
 
 ---
 
 ## 💻 Инструменты и технологии
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FL%20Studio-FF7F00?style=for-the-badge&logo=flstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-14354C?style=for-the-badge&logo=python&logoColor=F7CB3C&labelColor=000000&color=14354C"/>
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1C1C1C"/>
+  <img src="https://img.shields.io/badge/-SQLite-044A64?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
+  <img src="https://img.shields.io/badge/-Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00"/>
+  <img src="https://img.shields.io/badge/-FL%20Studio-FF7F00?style=for-the-badge&logo=flstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Мои проекты
 
-| 🚧 Проект | 🔗 Ссылка | 💡 Что делает |
+| 🚀 Проект | 🔗 Ссылка | 💡 Что делает |
 |------------|-----------|----------------|
-| 🧠 **Orion Voice Assistant** | 🌐 [orionpc.ru](https://orionpc.ru) | Мой собственный рабочий проект. Голосовой AI-помощник для ПК. Реализует распознавание речи, управление системой, работу с API и интеграцию с локальными сервисами. Развиваю платформу с лицензиями, панелью управления и обновлениями. |
-| 🌌 **Space Milk Browser** | — | Экспериментальный браузер с собственным UI. Поддерживает вкладки, мини-инструменты, перевод, звуковой индикатор вкладок и кастомную анимацию. Проект для изучения front-end логики и UI-дизайна. |
-| 📈 **A1CRM** | — | CRM-система для печатного бизнеса. Создана на WordPress, позволяет автоматизировать приём заказов и расчёт стоимости. Используется как учебный пример по backend-логике. |
-| 🎵 **DirtyBeats** | [101beat.com/ru/profile/14001](https://101beat.com/ru/profile/14001) | Мой музыкальный продакшн-профиль. Здесь я публикую свои instrumentals и биты в жанрах trap / chill / experimental. |
+| 🧠 **Orion Voice Assistant** | 🌐 [orionpc.ru](https://orionpc.ru) | Мой флагманский рабочий проект — AI-голосовой помощник для ПК. Управляет системой, работает офлайн, имеет веб-панель с лицензиями и API-сервисами. Включает Flask, Python, SQLite, Vosk, PyWebView и др. |
+| 🌌 **Space Milk Browser** | — | Экспериментальный браузер с уникальным дизайном, вкладками, звуковыми индикаторами и встроенными утилитами. Создан для тестов UI и AI-интерфейсов. |
+| 📈 **A1CRM** | — | Система для бизнеса печати. Позволяет рассчитывать стоимость заказов, генерировать PDF и управлять клиентами. |
+| 🎵 **DirtyBeats** | [101beat.com/ru/profile/14001](https://101beat.com/ru/profile/14001) | Мой музыкальный бренд. Здесь я публикую свои instrumentals, биты и атмосферные треки. |
 
 ---
 
@@ -66,8 +82,8 @@
 
 ---
 
-## 💬 Цитата, которая отражает мой путь
-> 💭 *«Пока другие отдыхают — я строю себя.»*  
+## 💬 Цитата, отражающая мой стиль
+> 💭 *«Я не просто кодю — я создаю вайб.»*  
 > — Dirty PlayBoy
 
 ---
