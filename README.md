@@ -1,4 +1,4 @@
-<!-- 💫 HEADER -->
+<!-- 🌌 HEADER -->
 <p align="center">
   <img src="https://github.com/DirtyPlayBoy/DirtyPlayBoy/blob/main/banner.png" width="100%" alt="Dirty PlayBoy Banner"/>
 </p>
@@ -6,54 +6,69 @@
 <h1 align="center">💫 Привет, я <span style="color:#b600ff">Dirty PlayBoy</span>!</h1>
 
 <p align="center">
-🎧 Музыкант, маркетолог и начинающий разработчик. <br>
-Создаю сайты, Python-приложения и биты под ником <b>DirtyBeats</b>. <br>
-Учусь на программиста и развиваюсь каждый день.
+🎧 Музыкант, маркетолог и разработчик из России. <br>
+Создаю сайты, приложения и биты под ником <a href="https://101beat.com/ru/profile/14001"><b>DirtyBeats</b></a>. <br>
+Учусь на программиста, развиваю свои IT-проекты и собственный бренд.
 </p>
 
 ---
 
-## 🧠 Навыки и уровень знаний
+## ⚡ Навыки и уровень владения
 
-| 🧩 Технология | ⚙️ Уровень владения | 📈 Прогресс |
-|---------------|---------------------|-------------|
-| **Python** | Базовые знания, понимаю синтаксис, работаю с простыми проектами | ██████░░░░░ 60% |
-| **HTML** | Понимаю структуру, умею верстать страницы | ███████░░░░ 70% |
-| **CSS** | Умею оформлять сайты, знаю базовые стили и Flexbox | ██████░░░░░ 60% |
-| **PHP** | Только начинаю знакомство | ██░░░░░░░░░░ 20% |
-| **JavaScript** | Почти не работал, понимаю логику | █░░░░░░░░░░░ 10% |
-| **WordPress / Figma / FL Studio / Photoshop / Illustrator** | Уверенный уровень, применяю в своих проектах | █████████░░ 90% |
+| 💻 Навык | 📈 Уровень | 🧠 Комментарий |
+|-----------|------------|----------------|
+| 🐍 **Python** | ██████░░░░░ 60% | Мой основной язык. Использую в проектах (в т.ч. Orion). Изучаю библиотеки sqlite3, asyncio, Flask и др. |
+| 🌐 **HTML** | ███████░░░░ 70% | Верстаю сайты, понимаю структуру, делаю адаптивные блоки и секции. |
+| 🎨 **CSS** | ██████░░░░░ 60% | Умею стилизовать страницы, работать с цветами, тенями и Flexbox. |
+| ⚙️ **Git & GitHub** | █████░░░░░░ 50% | Работаю с коммитами, ветками и оформлением проектов. |
+| 🧑‍🎨 **Figma / Photoshop / Illustrator** | █████████░░ 90% | Создаю обложки, UI-дизайны, логотипы и макеты сайтов. |
+| 🎧 **FL Studio (DirtyBeats)** | ██████████░ 95% | Пишу биты, продюсирую треки, создаю атмосферный звук. |
 
 ---
 
-## 💻 Инструменты, с которыми работаю
+## 💻 Инструменты и технологии
 <p align="center">
-  <img src="https://img.shields.io/badge/FL%20Studio-ff7f00?style=for-the-badge&logo=flstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FL%20Studio-FF7F00?style=for-the-badge&logo=flstudio&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Учебные и личные проекты
-| 💡 Проект | 📝 Краткое описание |
-|-----------|--------------------|
-| 🧠 **Orion Voice Assistant** | Голосовой ассистент на Python — мой учебный проект |
-| 🌌 **Space Milk** | Экспериментальный браузер с кастомным интерфейсом |
-| 📈 **A1CRM** | Проект CRM-системы для бизнеса печати |
-| 🎵 **DirtyBeats** | Продакшн и написание битов |
+## 🚀 Мои проекты
+
+| 🚧 Проект | 🔗 Ссылка | 💡 Что делает |
+|------------|-----------|----------------|
+| 🧠 **Orion Voice Assistant** | 🌐 [orionpc.ru](https://orionpc.ru) | Мой собственный рабочий проект. Голосовой AI-помощник для ПК. Реализует распознавание речи, управление системой, работу с API и интеграцию с локальными сервисами. Развиваю платформу с лицензиями, панелью управления и обновлениями. |
+| 🌌 **Space Milk Browser** | — | Экспериментальный браузер с собственным UI. Поддерживает вкладки, мини-инструменты, перевод, звуковой индикатор вкладок и кастомную анимацию. Проект для изучения front-end логики и UI-дизайна. |
+| 📈 **A1CRM** | — | CRM-система для печатного бизнеса. Создана на WordPress, позволяет автоматизировать приём заказов и расчёт стоимости. Используется как учебный пример по backend-логике. |
+| 🎵 **DirtyBeats** | [101beat.com/ru/profile/14001](https://101beat.com/ru/profile/14001) | Мой музыкальный продакшн-профиль. Здесь я публикую свои instrumentals и биты в жанрах trap / chill / experimental. |
 
 ---
 
-## 📊 GitHub-статистика
+## 📊 GitHub статистика
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DirtyPlayBoy&show_icons=true&theme=radical&hide_border=true" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DirtyPlayBoy&theme=radical&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DirtyPlayBoy&show_icons=true&theme=radical&hide_border=true&title_color=b600ff&icon_color=ff00ff" height="165px"/>
+  <img src="https://streak-stats.demolab.com?user=DirtyPlayBoy&theme=radical&hide_border=true&ring=b600ff&fire=ff00ff&currStreakLabel=ffffff" height="165px"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirtyPlayBoy&layout=compact&theme=radical&hide_border=true&title_color=b600ff"/>
+</p>
+
+---
+
+## 💬 Цитата, которая отражает мой путь
+> 💭 *«Пока другие отдыхают — я строю себя.»*  
+> — Dirty PlayBoy
 
 ---
 
@@ -68,11 +83,14 @@
   <a href="mailto:dirtyplayboy@example.com">
     <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://101beat.com/ru/profile/14001">
+    <img src="https://img.shields.io/badge/DirtyBeats-FF7F00?style=for-the-badge&logo=musicbrainz&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Если тебе нравится мой стиль — поддержи проект звёздочкой!  
+  ⭐ Если тебе близок мой стиль — поддержи проект звёздочкой!  
   <br><i>Dirty PlayBoy © 2025</i>
 </p>
