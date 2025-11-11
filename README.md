@@ -1,6 +1,6 @@
 <!-- 🌌 HEADER -->
 <p align="center">
-  <img src="https://github.com/DirtyPlayBoy/DirtyPlayBoy/blob/main/banner.png" width="100%" alt="Dirty PlayBoy Banner"/>
+  <img src="https://github.com/DirtyPlayBoy/DirtyPlayBoy/main/banner.png" width="100%" alt="Dirty PlayBoy Banner"/>
 </p>
 
 <h1 align="center">💫 Привет, я <span style="color:#b600ff">Dirty PlayBoy</span>!</h1>
@@ -11,7 +11,9 @@
 Работаю в стиле <b>Vibe-Coding</b> - с атмосферой, визуалом и помощью искусственного интеллекта 🤖
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/DirtyPlayBoy/DirtyPlayBoy/main/Night-Coding.gif" width="350" alt="Coding at Night Animation"/>
+</p>
 
 ## ⚡ Навыки и уровень владения
 
