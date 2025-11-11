@@ -1,6 +1,6 @@
 <!-- 🌌 HEADER -->
 <p align="center">
-  <img src="https://github.com/DirtyPlayBoy/DirtyPlayBoy/main/banner.png" width="100%" alt="Dirty PlayBoy Banner"/>
+  <img src="https://github.com/DirtyPlayBoy/DirtyPlayBoy/blob/main/banner.png?raw=true" width="80%" alt="Dirty PlayBoy Banner"/>
 </p>
 
 <h1 align="center">💫 Привет, я <span style="color:#b600ff">Dirty PlayBoy</span>!</h1>
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/DirtyPlayBoy/DirtyPlayBoy/main/Night-Coding.gif" width="350" alt="Coding at Night Animation"/>
+  <img src="https://github.com/DirtyPlayBoy/DirtyPlayBoy/main/Night-Coding.gif?raw=true" width="350" alt="Coding at Night Animation"/>
 </p>
 
 ## ⚡ Навыки и уровень владения
